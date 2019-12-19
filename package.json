@@ -9,8 +9,12 @@
   },
   "dependencies": {
     "expo": "~36.0.0",
+    "expo-constants": "~8.0.0",
     "expo-font": "^8.0.0",
+    "expo-location": "~8.0.0",
+    "expo-permissions": "~8.0.0",
     "immutable": "^4.0.0-rc.12",
+    "moment": "^2.24.0",
     "prop-types": "^15.7.2",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
@@ -30,10 +34,7 @@
     "redux-logger": "^3.0.6",
     "redux-observable": "^1.2.0",
     "rxjs": "^6.5.3",
-    "universal-rxjs-ajax": "^2.0.3",
-    "expo-permissions": "~8.0.0",
-    "expo-constants": "~8.0.0",
-    "expo-location": "~8.0.0"
+    "universal-rxjs-ajax": "^2.0.3"
   },
   "devDependencies": {
     "babel-preset-expo": "~8.0.0",
