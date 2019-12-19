@@ -15,4 +15,4 @@ web-report/
 
 .expo-shared
 package-lock.json
-.env.js
+env.js
